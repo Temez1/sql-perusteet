@@ -22,5 +22,4 @@ Helpompaa on kuitenkin siirtyä yksittäiseen kansioon ja ajaa sen jälkeen kome
 cd H1
 sqlite3 example.db
 .read T1.sql
-
 ```
