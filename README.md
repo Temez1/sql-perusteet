@@ -22,5 +22,13 @@ Helpompaa on kuitenkin siirtyä yksittäiseen kansioon ja ajaa sen jälkeen kome
 cd H1
 sqlite3 example.db
 .read T1.sql
+```
 
+Tuloste
+
+```
+2001: A Space Odyssey|Kubrick|1968-09-20
+Jaws|Spielberg|1975-12-19
+Jurassic Park|Spielberg|1993-09-03
+The Shining|Kubrick|1980-09-26
 ```
