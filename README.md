@@ -6,7 +6,7 @@ Tehtävät tehty SQLitellä https://www.sqlitetutorial.net/download-install-sqli
 
 Suosittelen VSCodea SQLToolssilla https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools
 
-# Kuvaus
+## Kuvaus
 
 Jokainen tehtäväkansio H* sisältää SQL tietokannan aloitustilassa (example.db), sekä erikseen luontilauseet (create-db.sql) ja datan lisäyslauseet (create-data.sql), joilla tietokanta on alustettu.
 
